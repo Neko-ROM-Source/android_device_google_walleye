@@ -27,7 +27,7 @@ etc/sysconfig/pixel_2017_exclusive.xml
 lib/com.qualcomm.qti.ims.radio@1.0.so
 lib/com.qualcomm.qti.imsrtpservice@1.0.so
 lib/com.qualcomm.qti.qcril.qcrilhook@1.0.so
-lib/lib-imsvideocodec.so
+lib/lib-imsvideocodec.so|ac87161151da6ce486c9b576b0b2f002a3c29f7f
 lib/lib-imsvt.so
 lib/lib-imsvtextutils.so
 lib/lib-imsvtutils.so
@@ -40,7 +40,7 @@ lib/vendor.qti.qcril.am@1.0.so
 lib64/com.qualcomm.qti.ims.radio@1.0.so
 lib64/com.qualcomm.qti.imsrtpservice@1.0.so
 lib64/com.qualcomm.qti.qcril.qcrilhook@1.0.so
-lib64/lib-imsvideocodec.so
+lib64/lib-imsvideocodec.so|ee8b75413089c6ef007caf2f9b9556acff00c0e0
 lib64/lib-imsvt.so
 lib64/lib-imsvtextutils.so
 lib64/lib-imsvtutils.so
