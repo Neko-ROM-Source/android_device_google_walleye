@@ -38,6 +38,9 @@ IS_PHONE := true
 TARGET_BOOT_ANIMATION_RES := 1080
 TARGET_GAPPS_ARCH := arm64
 
+# ArrowOS additions
+$(call inherit-product-if-exists, vendor/lawnchair/lawnchair.mk)
+
 # Inherit product specific makefiles
 $(call inherit-product, device/google/walleye/device.mk)
 $(call inherit-product, vendor/google/walleye/walleye-vendor.mk)
