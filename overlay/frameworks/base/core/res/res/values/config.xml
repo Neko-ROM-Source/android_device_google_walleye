@@ -183,7 +183,7 @@
 
     <!-- Vibrator pattern for feedback about a long screen/key press -->
     <integer-array name="config_longPressVibePattern">
-        <item>8</item>
+        <item>25</item>
     </integer-array>
 
     <!-- Delay that allows some content to arrive at the display before switching
